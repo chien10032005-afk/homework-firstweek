@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -42,3 +43,7 @@ color: Colors.grey,
 );
 }
 }
+=======
+# homework-firstweek
+homework firstweek
+>>>>>>> a6294489b8b889d3f16f5eb82fcf0271a1c442d0
